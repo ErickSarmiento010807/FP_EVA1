@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_5_VARIABLEES"/>
+        <attribute name="authors" value="Hogar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 05:51:42 PM"/>
+        <attribute name="created" value="SG9nYXI7REVTS1RPUC02VU5NUVRDOzIwMjUtMDgtMjc7MDQ6NTc6NTYgUE07MjkwMw=="/>
+        <attribute name="edited" value="SG9nYXI7REVTS1RPUC02VU5NUVRDOzIwMjUtMDgtMjc7MDU6NTE6NDIgUE07MTszMDAx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <assign variable="nombre" expression="&quot;Erick Sarmiento&quot;"/>
+            <declare name="edad" type="Real" array="False" size=""/>
+            <assign variable="edad" expression="18"/>
+            <output expression="nombre" newline="True"/>
+            <output expression="edad" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
